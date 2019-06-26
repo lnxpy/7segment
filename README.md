@@ -8,8 +8,4 @@
 - [ISIS-Professional](https://proteus.soft112.com/) - _Simulator of *AVR* microcontroller_
 
 # Output In ISIS-Professional
-
-<video width="400" controls>
-  <source src="https://github.com/lnxpy/7segment/blob/master/sev-seg.mp4" type="video/mp4">
-  Your browser does not support HTML5 video.
-</video>
+<video src="https://github.com/lnxpy/7segment/blob/master/sev-seg.mp4" width="320" height="200" controls preload></video>
