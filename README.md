@@ -8,4 +8,8 @@
 - [ISIS-Professional](https://proteus.soft112.com/) - _Simulator of *AVR* microcontroller_
 
 # Output In ISIS-Professional
-<video src="https://github.com/lnxpy/7segment/blob/master/sev-seg.mp4" width="320" height="200" controls preload></video>
+<img src="https://github.com/lnxpy/7segment/blob/master/ezgif-2-0adcd8806a1f.gif">
+
+# Fork
+Fork is free for everyone :)
+Be sure that you can improve the VB script.
